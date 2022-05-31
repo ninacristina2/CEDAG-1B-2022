@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninacristina2
 - 👀 I’m interested in technology, robotics and computational thinking.
-- 🌱 I’m currently learning program in scratch and javascript.
+- 🌱 I’m currently learning program in SCRATCH and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
