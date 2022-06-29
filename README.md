@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninacristina2
+- 👋 Hi, I’m Adriana Fontana Ferreira
 - 👀 I’m interested in technology, robotics and computational thinking.
 - 🌱 I’m currently learning program in SCRATCH and javascript.
 - 💞️ I’m looking to collaborate on ...
